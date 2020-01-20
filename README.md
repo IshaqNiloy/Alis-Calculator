@@ -1,1 +1,2 @@
-# Ali-s-Calculator
+# Ali's Calculator
+<img src = "images/calculator.PNG">
